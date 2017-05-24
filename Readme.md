@@ -25,10 +25,12 @@ Add to `package.json`
 Start node app from comman line
 
 `npm run dev`
+
 `> node@1.0.0 dev C:\Users\suramam\git\node`
+
 `> babel-node app.js`
 
-Example app listening on port 3000!
+`Example app listening on port 3000!`
 
 That's it...
 
