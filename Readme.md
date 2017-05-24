@@ -1,7 +1,9 @@
 # Example of a basic node ExpressJs server with ES6 support
 
 `npm init -y`
+
 `npm install --save-dev babel-cli babel-preset-env`
+
 `npm install express`
 
 New `.babelrc` file with following contents
